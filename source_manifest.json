@@ -1,0 +1,10 @@
+{
+  "rscrm_simulation_code.py": {
+    "author_source_sha256": "5f2d91e9cab16d96f427d31f85c2851e0b19ba9a46fc4b92e3cd77eda7e2800a",
+    "repository_sha256": "3f018f766d63fb7a757f3eb8f4ef2e31f2724ba417e242a4c31e3954ca424043"
+  },
+  "rscrm_analysis.py": {
+    "author_source_sha256": "10a318de4f00c947947e6acb1e183068808107deba8912f68702e4bd11a00681",
+    "repository_sha256": "c78722f54602ae3b858fcfd0160c3514d09e77626b686907214e9cead23cc143"
+  }
+}
